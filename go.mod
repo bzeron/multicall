@@ -1,4 +1,4 @@
-module multicall
+module github.com/bzeron/multicall
 
 go 1.18
 
